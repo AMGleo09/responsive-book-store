@@ -8,4 +8,4 @@
 
 Check Out Here [Click Me](https://amgleo09.github.io/responsive-book-store/)
 
-![preview img]()
+![preview img](preview..png)
